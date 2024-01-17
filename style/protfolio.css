@@ -1,0 +1,41 @@
+.party{
+    text-align: center;
+    background-image: url(../style/Banner\ Image.png);
+    width: 800px;
+    height: 200px;
+    background-repeat: no-repeat;
+    padding: 180px 80px ;
+    margin:10px 500px 0px  ;
+}
+.color{
+    color: aliceblue;
+    text-align: center;
+}
+.discount{
+    align-items: center;
+    margin:10px 600px 0px ;
+}
+#bg{
+    background-image:url(../style/Vectorrr.png);
+    background-repeat: no-repeat;
+    width: 800px;
+    height: 200px;
+    padding: 180px 400px 50px 20px ;
+    margin:10px 500px 0px ;
+    display: flex;
+    justify-content: space-around;
+    
+}
+.writing-part{
+    
+    color: aliceblue;
+    padding-left: 4px;
+    width: 300px;
+    height: 250px;
+   
+#right{
+    padding-right: 100px;
+}
+.btn{
+    background-color: rgb(24, 192, 192);
+}
